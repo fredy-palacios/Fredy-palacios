@@ -28,6 +28,6 @@
 
 <h2>Contact</h2>
 
-✉️ Email: <a href="mailto:contacto@fredypalacios.com">contacto@fredypalacios.com</a>
+✉️ Email: <a href="mailto:developer@fredypalacios.com">developer@fredypalacios.com</a>
 <br>
 🚀 Portfolio: <a href="https://www.fredypalacios.com" target="_blank">fredypalacios.com</a>
