@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-👋 Hi! <strong>I'm Fredy Palacios</strong> , a <strong>web developer</strong> with experience in <strong>Laravel (PHP)</strong> and <strong>Java</strong>, passionate about application development and continuous learning. I am currently expanding my skills in Swift for iOS development. <strong>My goal is to bring value to an innovative company</strong> by contributing fresh ideas and a focus on continuous improvement. <strong>I am always eager to learn something new</strong> and to give my best in every project.
+👋 Hi! <strong>I'm Fredy Palacios</strong> , a <strong>web developer</strong> with experience in <strong>Laravel (PHP)</strong> and <strong>Java (Spring Boot)</strong>. I'm passionate about application development and constantly expanding my knowledge. Currently, I'm diving into Kotlin and Jetpack Compose for Android mobile development. My goal is to contribute fresh ideas and innovative solutions to every project I take on while continuously improving my expertise. I'm always eager to learn new technologies and give my best in every challenge.
 
 <h2>Skills</h2>
 
